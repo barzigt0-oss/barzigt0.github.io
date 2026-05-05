@@ -1,0 +1,17 @@
+---
+title: "Renewable Energy Insights"
+author: ""
+description: ""
+date: "2026-05-04"
+categories: []
+---
+
+This data story explores data from the International Renewable Energy Agency (IRENA), revealing various insights through interactive plots. If you're curious about who's driving solar affordability, how much solar is producing for Japan's economy, or how Ireland has experienced a declining global warming rate, read the follow data story:
+
+[HERE](https://barzigt0-oss.github.io/energy/)
+
+or visit the github repo:
+
+[HERE](https://github.com/barzigt0-oss/energy)
+
+![© IRENA](images/irena.jpeg){fig-align="right"}

@@ -10,15 +10,12 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/barzigt0-oss
+      - icon: linkedin
+        href: https://www.linkedin.com/in/george-barzizza-60965425a/
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-
+    theme: slate
+    
 editor: visual
 

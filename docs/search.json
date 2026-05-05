@@ -4,27 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hello, my name is George Barzizza, and I created this blog to showcase some of my data coursework. Each post shares a different story, often tying in some aspect of sustainability. From environmental economics to student housing energy consumption, this blog offers an array of insights that can help inform decisions and identify gaps in the progressing world of sustainable development."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/2026-05-04-data-story-1/index.html",
+    "href": "posts/2026-05-04-data-story-1/index.html",
+    "title": "Renewable Energy Insights",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This data story explores data from the International Renewable Energy Agency (IRENA), revealing various insights through interactive plots. If you’re curious about who’s driving solar affordability, how much solar is producing for Japan’s economy, or how Ireland has experienced a declining global warming rate, read the follow data story:\nHERE\nor visit the github repo:\nHERE\n\n\n\n© IRENA"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/2026-05-04-data-story-2/index.html",
+    "href": "posts/2026-05-04-data-story-2/index.html",
+    "title": "Does Expenditure Equal Protection?",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This data story examines the relationship between endemic, endangered species (i.e., mammals and fish) and environmental protection expenditures across countries through the lens of the 14th and 15th Sustainable Development Goals (SDGs), Life Below Water and Life on Land. Some of the questions addressed in this data story include: Do governments adjust their expenditures based on biodiversity loss? How does government spending align with commitments to Life Below Water and Life on Land? What can you do to promote biodiversity conservation?\nView data story:\nHERE\nor visit the github repo:\nHERE\n\n\n\n© Brad Josephs"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-4/index.html",
+    "href": "posts/2026-05-04-data-story-4/index.html",
+    "title": "Energy Consumption of Neighboring Student Houses",
+    "section": "",
+    "text": "This app allows you to explore the energy consumption of two neighboring student houses (i.e., The Greenhouse and The Phi Society of 1883) at the University of the South in relation to regional consumption averages according to the U.S. Energy Information Administration. Learn what student practices potentially contribute to consumption and conservation.\nVisit the github repo\nHERE"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-3/index.html",
+    "href": "posts/2026-05-04-data-story-3/index.html",
+    "title": "The Argument for Cross-Sectoral Decoupling",
+    "section": "",
+    "text": "This book explores whether economic growth can continue without driving carbon emissions. It introduces the concept of ‘decoupling’ and argues how tailored innovation and infrastructural change across sectors can lead toward a greener economy.\nTo read this book, visit the github repo:\nHERE\n\n\n\n© Grist / Getty Images"
+  },
+  {
+    "objectID": "posts/2026-05-04-data-story-5/index.html",
+    "href": "posts/2026-05-04-data-story-5/index.html",
+    "title": "Rush Hour Traffic on University",
+    "section": "",
+    "text": "The following data story explores the data found using a data entry app of my creation. The data entry app allows the user to log traffic data on University Avenue in Sewanee, Tennessee. Using the interactive graph, explore how certain cars drive during Sewanee rush hour.\nView data story:\nHERE\nor visit github repo:\nHERE"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Data Storytelling and Sustainable Development — Final Portfolio",
+    "title": "Data Story Portfolio",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 21, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog! By clicking on a post, you can access a unique story backed and built with trustworthy datasets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergy Consumption of Neighboring Student Houses\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Argument for Cross-Sectoral Decoupling\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDoes Expenditure Equal Protection?\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRush Hour Traffic on University\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRenewable Energy Insights\n\n\n\n\n\n\n\n\n\n\n\nMay 4, 2026\n\n\n\n\n\nNo matching items"
   }
 ]

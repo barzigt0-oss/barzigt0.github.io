@@ -1,0 +1,15 @@
+---
+title: "The Argument for Cross-Sectoral Decoupling"
+author: ""
+description: ""
+date: "2026-05-04"
+categories: []
+---
+
+This book explores whether economic growth can continue without driving carbon emissions. It introduces the concept of 'decoupling' and argues how tailored innovation and infrastructural change across sectors can lead toward a greener economy.
+
+To read this book, visit the github repo:
+
+[HERE](https://github.com/barzigt0-oss/data_story_3)
+
+![© Grist / Getty Images](images/decoupling.jpg.webp){fig-align="right" width="361"}
