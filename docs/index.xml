@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<link>https://GeorgeBarzizzaData.com/</link>
+<atom:link href="https://GeorgeBarzizzaData.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A Collection of Data Stories Revolving Around Sustainable Development</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Mon, 04 May 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>Energy Consumption of Neighboring Student Houses</title>
-  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</link>
+  <link>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-4/</link>
   <description><![CDATA[ 
 
 
@@ -25,19 +25,19 @@
 <p><a href="https://github.com/barzigt0-oss/Data_Story_4">HERE</a></p>
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-4/images/versus.jpeg" class="img-fluid quarto-figure quarto-figure-right figure-img" width="315"></p>
+<p><img src="https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-4/images/versus.jpeg" class="img-fluid quarto-figure quarto-figure-right figure-img" width="315"></p>
 </figure>
 </div>
 
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</guid>
+  <guid>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-4/</guid>
   <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The Argument for Cross-Sectoral Decoupling</title>
-  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <link>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-3/</link>
   <description><![CDATA[ 
 
 
@@ -49,7 +49,7 @@
 <p><a href="https://github.com/barzigt0-oss/data_story_3">HERE</a></p>
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-3/images/decoupling.jpg.webp" class="img-fluid figure-img" width="361"></p>
+<p><img src="https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-3/images/decoupling.jpg.webp" class="img-fluid figure-img" width="361"></p>
 <figcaption>© Grist / Getty Images</figcaption>
 </figure>
 </div>
@@ -57,12 +57,12 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <guid>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-3/</guid>
   <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Does Expenditure Equal Protection?</title>
-  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <link>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-2/</link>
   <description><![CDATA[ 
 
 
@@ -76,7 +76,7 @@
 <p><a href="https://github.com/barzigt0-oss/data_story_2">HERE</a></p>
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-2/images/BEAR.jpeg" class="img-fluid figure-img" width="393"></p>
+<p><img src="https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-2/images/BEAR.jpeg" class="img-fluid figure-img" width="393"></p>
 <figcaption>© Brad Josephs</figcaption>
 </figure>
 </div>
@@ -84,12 +84,12 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <guid>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-2/</guid>
   <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Rush Hour Traffic on University</title>
-  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</link>
+  <link>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-5/</link>
   <description><![CDATA[ 
 
 
@@ -103,19 +103,19 @@
 <p><a href="https://github.com/barzigt0-oss/data_story_5">HERE</a></p>
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-5/images/thumbnail.jpeg" class="img-fluid quarto-figure quarto-figure-right figure-img"></p>
+<p><img src="https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-5/images/thumbnail.jpeg" class="img-fluid quarto-figure quarto-figure-right figure-img"></p>
 </figure>
 </div>
 
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</guid>
+  <guid>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-5/</guid>
   <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Renewable Energy Insights</title>
-  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <link>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-1/</link>
   <description><![CDATA[ 
 
 
@@ -128,7 +128,7 @@
 <p><a href="https://github.com/barzigt0-oss/energy">HERE</a></p>
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-1/images/irena.jpeg" class="img-fluid figure-img"></p>
+<p><img src="https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-1/images/irena.jpeg" class="img-fluid figure-img"></p>
 <figcaption>© IRENA</figcaption>
 </figure>
 </div>
@@ -136,7 +136,7 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <guid>https://GeorgeBarzizzaData.com/posts/2026-05-04-data-story-1/</guid>
   <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>

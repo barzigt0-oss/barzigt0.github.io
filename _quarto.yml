@@ -3,8 +3,8 @@ project:
   output-dir: docs
   
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  description: "A Collection of Data Stories Revolving Around Sustainable Development"
+  site-url: https://GeorgeBarzizzaData.com # you must change this appropriately for RSS feeds to work properly
   title: "blog"
   navbar:
     right:
